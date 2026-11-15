@@ -6,11 +6,10 @@ shear behaviour of both dry and pre-impregnated textile composites. Usually, res
 considered useful as long as the textile composite undergoes so-called trellis shear or Pin-Jointed Net (PJN)
 kinematics. However, further information about the material is available following the breakdown
 of this kinematic criteria, i.e. when the textile composite undergoes a combination of PJN and intra-ply slip
-kinematics. Test data produced following the breakdown of the PJN criteria can be used both to evaluate
-predictions of a multi-scale mechanical model and furthermore to quantify the general integrity of a given
+kinematics. Test data produced following the breakdown of the PJN criteria can be used to quantify the general integrity of a given
 textile composite. The latter is an indicator of the materials resistance to handling during lay-up and to intraply
-slip during forming. It is shown that by measuring the inter-fibre angle and the width of the tested
+slip during forming. By measuring the inter-fibre angle and the width of the tested
 specimen, the deformation within the sample can be described using relatively simple kinematics, even as the
-sample reaches very high elongations. A computer code has been used to illustrate this deformation.
+sample reaches very high elongations. This computer code to illustrates this deformation.
 Predictions are compared directly with BE tests performed on a glass / polypropylene 2 x 2 twill weave
-thermoplastic.
+thermoplastic, though custom kinematics can be easily introduced using the graphical user interface.
