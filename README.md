@@ -7,7 +7,7 @@ considered useful as long as the textile composite undergoes so-called trellis s
 kinematics. However, further information about the material is available following the breakdown
 of this kinematic criteria, i.e. when the textile composite undergoes a combination of PJN and intra-ply slip
 kinematics. Test data produced following the breakdown of the PJN criteria can be used to quantify the general integrity of a given
-textile composite. The latter is an indicator of the materials resistance to handling during lay-up and to intraply
+textile. The latter is an indicator of the materials resistance to handling during lay-up and to intraply
 slip during forming. By measuring the inter-fibre angle and the width of the tested
 specimen, the deformation within the sample can be described using relatively simple kinematics, even as the
 sample reaches very high elongations. This computer code to illustrates this deformation.
