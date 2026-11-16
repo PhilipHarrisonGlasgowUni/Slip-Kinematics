@@ -9,7 +9,7 @@ HOW TO USE
 >> Press play to see the UBE Slip animation with pre-defined slip kinematics.
 >> Toggle the various options on/off to change the animation properties.
 >> You can add your own kinematics to generate different slip behaviour.
->> If you're really keen, you can conduct a uniaxial bias extension test, measure the slip kinematics and use these in the code.
+>> If you're really keen, you can conduct a uniaxial bias extension test using this experimental protocol (https://dx.doi.org/10.17504/protocols.io.81wgbyy93vpk/v1), measure the slip kinematics and use these in the code. 
 >> If you're really, really keen, you could use these kinematics to figure out the internal friction of the fabric as a new research project :-)
 
 For background on the implemented kinematics you can read the conference paper: Harrison, P, Tan, Mk and Long, AC (2005) Kinematics of Intra-Ply Slip in Textile Composites during Bias Extension Tests. In: 8th Int. ESAFORM Conf. on Materials Forming, Cluj-Napoca, Romania
