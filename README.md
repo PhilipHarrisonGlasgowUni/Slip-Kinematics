@@ -1,5 +1,5 @@
 # UniaxialBiasExtensionTests-Slip-Kinematics
-A quick and easy-to-use code that illustrates the integrity and cohesion of engineering fabrics. 
+A quick and easy-to-use code that illustrates the integrity and cohesion of engineering fabrics. See for example: https://youtu.be/BW7T3RPVYJc 
 
 It's for composites processing engineers who want to visualise slip and/or characterise fabric integrity.
 
