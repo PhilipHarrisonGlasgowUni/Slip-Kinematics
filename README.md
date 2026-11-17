@@ -1,13 +1,18 @@
 # UniaxialBiasExtensionTests-Slip-Kinematics
+WHAT IS IT?
 A quick and easy-to-use code that illustrates the integrity and cohesion of engineering fabrics. See for example: https://youtu.be/BW7T3RPVYJc 
+The code is a MatLab file initially created in 2004 and recently improved with the assistance of Claude using MatLab vR2026b.
 
-It's for composites processing engineers who want to visualise slip and/or characterise fabric integrity.
+WHO'S IT FOR?
+It's for composites processing engineers and researchers who want to visualise slip and/or characterise the integrity of engineering fabrics (e.g. woven carbon, glass or kevlar cloth).
+
+WHAT YOU NEED TO RUN IT
+A recent version of MatLab (2026 & onwards).
 
 HOW TO USE
->> The code is a MatLab file initially created in 2004 and recently improved with the assistance of Claude using MatLab vR2026b
 >> Download the MatLab file "UBE_Slip_real_4.m", add to the work path and run.
->> Press play to see the UBE Slip animation with pre-defined slip kinematics.
->> Toggle the various options on/off to change the animation properties.
+>> In the interface, press play to see the UBE Slip animation with pre-defined slip kinematics.
+>> Toggle the various options on/off to change the animation properties, record the video if you want.
 >> You can add your own kinematics to generate different slip behaviour.
 >> If you're really keen, you can conduct a uniaxial bias extension test using this experimental protocol (https://dx.doi.org/10.17504/protocols.io.81wgbyy93vpk/v1), measure the slip kinematics and use these in the code. 
 >> If you're really, really keen, you could use these kinematics to figure out the internal friction of the fabric as a new research project :-)
