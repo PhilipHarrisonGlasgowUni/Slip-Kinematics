@@ -10,7 +10,7 @@ WHAT YOU NEED TO RUN IT?
 A recent version of MatLab (2026 & onwards).
 
 HOW TO USE IT?
->> Download the MatLab file "UBE_Slip_real_4.m", add to the work path and run.
+>> Download the MatLab file "UBE_Slip_real_4.m", open in MatLab, add to the work path and run.
 >> In the interface, press play to see the UBE Slip animation with pre-defined slip kinematics.
 >> Toggle the various options on/off to change the animation properties, record the video if you want.
 >> You can add your own kinematics to generate different slip behaviour.
