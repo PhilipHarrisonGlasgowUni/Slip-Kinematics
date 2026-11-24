@@ -6,7 +6,7 @@ The code is a MatLab file initially created in 2004 and recently improved (faste
 
 
 WHO'S IT FOR?
-It's for composites processing engineers and researchers who want to visualise slip and/or characterise the integrity of engineering fabrics (e.g. woven carbon, glass or kevlar cloth).
+It's for composites processing engineers and researchers who want to visualise slip and/or characterise the integrity of engineering fabrics (e.g. woven carbon, glass & kevlar cloth or cross-ply laminates).
 
 WHAT YOU NEED TO RUN IT?
 A recent version of MatLab (2026 & onwards).
