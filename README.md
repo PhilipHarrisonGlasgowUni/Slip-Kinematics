@@ -1,7 +1,9 @@
 # Slip-Kinematics
 WHAT IS IT?
 A quick and easy-to-use code that illustrates the integrity and cohesion of engineering fabrics. See for example: https://youtu.be/BW7T3RPVYJc 
-The code is a MatLab file initially created in 2004 and recently improved (faster, has a new GUI and creates videos) with the assistance of Claude using MatLab vR2026b.
+The code is a MatLab file initially created in 2004 and recently improved (faster, has a new GUI and creates videos) with the assistance of Claude using MatLab vR2026b. A screenshot of the GUI, including an image of the resulting test specimen undergoing slip is shown here:
+<img width="2074" height="1482" alt="image" src="https://github.com/user-attachments/assets/c33fe53d-dd2a-4c6e-82ae-ee1ab2ec9b7c" />
+
 
 WHO'S IT FOR?
 It's for composites processing engineers and researchers who want to visualise slip and/or characterise the integrity of engineering fabrics (e.g. woven carbon, glass or kevlar cloth).
