@@ -1,4 +1,4 @@
-function UBE_Slip_real_4
+function UBE_Slip_real
 % UBE_SLIP_REAL  Tow / slip specimen simulation with the tows drawn as bands of real width.
 %
 %   Run with:   UBE_Slip_real
