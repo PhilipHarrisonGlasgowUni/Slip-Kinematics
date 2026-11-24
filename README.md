@@ -29,4 +29,4 @@ The Bias Extension test has become one of the preferred methods of characterisin
 
 HOW TO CITE
 If you use this code in your work, please cite it as:
-Philip Harrison (2026) UBE Slip-Kinematics (v1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24514801
+Philip Harrison (2026) Slip-Kinematics (v1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24514801
