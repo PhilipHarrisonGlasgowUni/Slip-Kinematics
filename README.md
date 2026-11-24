@@ -1,4 +1,6 @@
 # Slip-Kinematics
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24514801.svg)](https://doi.org/10.5281/zenodo.24514801)
+
 WHAT IS IT?
 A quick and easy-to-use code that illustrates the integrity and cohesion of engineering fabrics. See for example: https://youtu.be/BW7T3RPVYJc 
 The code is a MatLab file initially created in 2004 and recently improved (faster, has a new GUI and creates videos) with the assistance of Claude using MatLab vR2026b. A screenshot of the GUI, including an image of the resulting test specimen undergoing slip is shown here:
